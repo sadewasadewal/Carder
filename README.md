@@ -1,7 +1,7 @@
-# Carder — Apple Wallet Card Art Gallery & Maker Studio
+# Carder
 
 <div align="center">
-  <h3>Card art for Apple Wallet, made and <em>shared</em></h3>
+  <h3>Card art for Wallet and Pass made and <em>shared</em></h3>
   <p>Pick one you love, or make your own, and put it directly in your Apple Wallet.</p>
 </div>
 
